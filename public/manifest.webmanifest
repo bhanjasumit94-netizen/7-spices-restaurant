@@ -1,0 +1,16 @@
+{
+  "name": "7 Spices Restaurant – POS & ERP",
+  "short_name": "7 Spices POS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0e",
+  "theme_color": "#d4a017",
+  "description": "Complete POS, Billing, QR Order & Inventory ERP System",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%230b0b0e'/><text x='50%25' y='58%25' font-family='Georgia,serif' font-size='110' fill='%23d4a017' text-anchor='middle' font-weight='bold'>7</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
